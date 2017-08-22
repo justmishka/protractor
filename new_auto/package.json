@@ -1,0 +1,21 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-jsbeautifier": "^0.2.13",
+    "grunt-protractor-runner": "^5.0.0",
+    "grunt-shell-spawn": "^0.3.10",
+    "jasmine-spec-reporter": "^4.0.0",
+    "protractor": "^5.1.1"
+  }
+}
